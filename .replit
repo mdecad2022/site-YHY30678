@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # The command that runs the program. If the interpreter field is set, it will have priority and this run command will do nothing
+=======
+ The command that runs the program. If the interpreter field is set, it will have priority and this run command will do nothing
+>>>>>>> eaf09ad33c98719b589c3cba5ab38e5881168661
 run = "python3 main.py"
 
 # The primary language of the repl. There can be others, though!
